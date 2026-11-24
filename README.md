@@ -5,7 +5,7 @@
 I'm focused on defensive security: monitoring, detection, triage and incident response.
 This GitHub documents my hands-on work building a home SOC, writing detections and investigating incidents.
 
-📍 Spain → open to opportunities in Colombia and remote (Spanish native · English)
+📍 open to opportunities in Colombia and remote (Spanish native · English)
 
 ---
 
