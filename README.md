@@ -29,5 +29,3 @@ This GitHub documents my hands-on work building a home SOC, writing detections a
 
 ---
 
-### 📫 Contact
-[LinkedIn](www.linkedin.com/in/ferblcybersecurity) · ferdevbl@gmail.com
